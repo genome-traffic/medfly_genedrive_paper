@@ -1,0 +1,35 @@
+﻿Male_parent,Female_parent,Drive,Promoter,Crosstype,Replicate,Embryos,Hatched
+VasaGD/w+,w+/w+,w-vasa,vasa,male cross,1,343,338
+VasaGD/w+,w+/w+,w-vasa,vasa,male cross,2,339,315
+VasaGD/w+,w+/w+,w-vasa,vasa,male cross,3,340,275
+w+/w+,VasaGD/w+,w-vasa,vasa,female cross,1,459,410
+w+/w+,VasaGD/w+,w-vasa,vasa,female cross,2,346,286
+w+/w+,VasaGD/w+,w-vasa,vasa,female cross,3,408,387
+NanosGD/w+,w+/w+,w-nanos,nanos,male cross,1,305,276
+NanosGD/w+,w+/w+,w-nanos,nanos,male cross,2,540,509
+NanosGD/w+,w+/w+,w-nanos,nanos,male cross,3,399,381
+w+/w+,NanosGD/w+,w-nanos,nanos,female cross,1,165,151
+w+/w+,NanosGD/w+,w-nanos,nanos,female cross,2,348,310
+w+/w+,NanosGD/w+,w-nanos,nanos,female cross,3,371,323
+ZpgGD/w+,w+/w+,w-zpg,zpg,male cross,1,373,346
+ZpgGD/w+,w+/w+,w-zpg,zpg,male cross,2,187,164
+ZpgGD/w+,w+/w+,w-zpg,zpg,male cross,3,219,208
+w+/w+,ZpgGD/w+,w-zpg,zpg,female cross,1,246,224
+w+/w+,ZpgGD/w+,w-zpg,zpg,female cross,2,397,377
+w+/w+,ZpgGD/w+,w-zpg,zpg,female cross,3,292,270
+VasaGD;tra+/w+;tra+,w+;tra+/w+;tra+,w + tra,vasa,male cross,1,309,301
+VasaGD;tra+/w+;tra+,w+;tra+/w+;tra+,w + tra,vasa,male cross,2,401,376
+VasaGD;tra+/w+;tra+,w+;tra+/w+;tra+,w + tra,vasa,male cross,3,378,323
+w+;tra+/w+;tra+,VasaGD;tra+/w+;tra+,w + tra,vasa,female cross,1,275,256
+w+;tra+/w+;tra+,VasaGD;tra+/w+;tra+,w + tra,vasa,female cross,2,250,189
+w+;tra+/w+;tra+,VasaGD;tra+/w+;tra+,w + tra,vasa,female cross,3,245,231
+VasaGD/tra+,tra+/tra+,tra,vasa,male cross,1,449,390
+VasaGD/tra+,tra+/tra+,tra,vasa,male cross,2,391,370
+VasaGD/tra+,tra+/tra+,tra,vasa,male cross,3,338,323
+VasaGD/tra+,tra+/tra+,tra,vasa,male cross,4,462,426
+VasaGD/tra+,tra+/tra+,tra,vasa,male cross,5,385,367
+wt/wt,wt/wt,control,control,control,1,398,386
+wt/wt,wt/wt,control,control,control,2,262,243
+wt/wt,wt/wt,control,control,control,3,275,265
+wt/wt,wt/wt,control,control,control,4,233,219
+wt/wt,wt/wt,control,control,control,5,407,392
